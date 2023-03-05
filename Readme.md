@@ -23,7 +23,7 @@ To run the project, you will need the following:
 
 ## Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/yourusername/blog-website.git`
+1. Clone the repository to your local machine using `git clone https://github.com/Tanzeera/Group_A5_4.git`
 2. Install WordPress and set up the necessary configurations
 3. Upload the project files to the WordPress directory on the server
 4. Activate the theme and necessary plugins
